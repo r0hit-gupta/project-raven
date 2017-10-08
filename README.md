@@ -12,3 +12,6 @@ Raven is an intelligent traffic management system which uses computer vision and
 * Clone the project.
 * Run `yarn install` to install the dependencies.
 * Run `yarn start` to view the project in action.
+
+### OpenCV Demo to Count Vehicles
+* In "countingCars" directory, run 'python count.py' .
